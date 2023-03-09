@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  background-color: rgba(180, 90, 90, 0.9);
+}
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  padding-top: 0.2cm;
+}
+h1 {
+  font-size: 40px;
+}
+button,
+input {
+  height: 1.5cm;
+  font-size: 20px;
+  background-color: rgba(1, 1, 1, 0.8);
+  color: aliceblue;
+  border-color: rgba(1, 1, 1, 1);
+}
+
+button {
+  width: 2cm;
+}
+
+input {
+  width: 8cm;
+}
+.mergecell {
+  width: 6cm;
+}
